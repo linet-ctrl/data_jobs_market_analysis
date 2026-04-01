@@ -11,6 +11,12 @@ The analysis was built using Power BI to visualize key patterns in the industry.
 To understand job market trends, including roles, salaries, skills demand, and employment patterns in the data industry.
 
 ---
+## Dashboard Preview
+Data_jobs_dashboard.png
+Job_title_drill_through.png
+Job_salary_trends.png
+Degree_salary.png
+Portions_difference.png
 
 ## Tools Used
 - Power BI  
@@ -39,5 +45,3 @@ To understand job market trends, including roles, salaries, skills demand, and e
 ## Outcome
 This project provides a clear view of  how the data job market is structured and highlights opportunities for individuals entering the data field
 
-## Outcome
-This project provides a clear view of how the data job market is structured and highlights opportunities for individuals entering the analytics field.
